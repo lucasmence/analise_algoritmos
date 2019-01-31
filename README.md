@@ -1,2 +1,12 @@
 # analise_algoritmos
-Estudo de analise de algoritmos utilizando os padrões de algoritmo guloso, programação dinamica e força bruta.
+
+Neste repositório contém os seguintes algoritmos:
+
+> Programação Dinâmica;
+
+> Força Bruta;
+
+> Algoritmo Guloso;
+
+Todos eles utilizados com exemplo de otimização de código para fins de estudo.
+Qualquer bibliografia e fonte do material estudado esta disponivel nos comentarios dos codigos gerados.
